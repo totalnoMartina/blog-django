@@ -1,9 +1,9 @@
 ---
 name: 'USER STORY: <TITTLE>'
 about: Defaut User Story template
-title: ''
+title: User Story
 labels: ''
-assignees: ''
+assignees: totalnoMartina
 
 ---
 
